@@ -2,6 +2,10 @@
 
 A presentation given at Swift Heroes 2024 conference
 
+## Presentation
+
+[swift-ownership-predictable-perf.pdf](https://github.com/jcavar/swift-heroes-24/files/15038672/swift-ownership-predictable-perf.pdf)
+
 ## Links
 
 - [Pitch: `borrow` and `inout` declaration keywords](https://forums.swift.org/t/pitch-borrow-and-inout-declaration-keywords/62366)
@@ -10,5 +14,3 @@ A presentation given at Swift Heroes 2024 conference
 - [Borrowing and consuming pattern matching for noncopyable types](https://github.com/apple/swift-evolution/blob/main/proposals/0432-noncopyable-switch.md)
 - [My blog](https://infinum.com/blog/author/josipcavar/)
 - [Embedded Swift Vision](https://github.com/apple/swift-evolution/blob/main/visions/embedded-swift.md)
-
-## Presentation
