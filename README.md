@@ -14,3 +14,10 @@ A presentation given at Swift Heroes 2024 conference
 - [Borrowing and consuming pattern matching for noncopyable types](https://github.com/apple/swift-evolution/blob/main/proposals/0432-noncopyable-switch.md)
 - [My blog](https://infinum.com/blog/author/josipcavar/)
 - [Embedded Swift Vision](https://github.com/apple/swift-evolution/blob/main/visions/embedded-swift.md)
+
+- [Swift in secure enclave](https://blog.timac.org/2023/1019-state-of-swift-and-swiftui-ios17/)
+- [Byte size Swift](https://forums.swift.org/t/byte-sized-swift-building-tiny-games-for-the-playdate/70615/22)
+- [Swift on Pico](https://forums.swift.org/t/embedded-swift-running-on-the-raspberry-pi-pico/69001/27)
+- [GNOME apps with Swift](https://www.swift.org/blog/adwaita-swift/)
+- [Swift on Windows](https://www.swift.org/blog/swift-everywhere-windows-interop/)
+- [ARC in Swift](https://developer.apple.com/videos/play/wwdc2021/10216/)
